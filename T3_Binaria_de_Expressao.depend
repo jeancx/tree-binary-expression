@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1405452529 source:d:\desktop\t3_binaria_de_expressao\main.cpp
+	"T3_BExpressao.h"
+
+1405452837 d:\desktop\t3_binaria_de_expressao\t3_bexpressao.h
+	<iostream>
+	<string>
+	<stdio.h>
+
+1404910290 source:d:\t3_binaria_de_expressao\main.cpp
+	"T3_BExpressao.h"
+
+1404910422 d:\t3_binaria_de_expressao\t3_bexpressao.h
+	<iostream>
+	<string>
+
+1405456128 source:d:\dropbox\faculdade\c++\t3_binaria_de_expressao\t3_binaria_de_expressao\main.cpp
+	"T3_BExpressao.h"
+
+1405456436 d:\dropbox\faculdade\c++\t3_binaria_de_expressao\t3_binaria_de_expressao\t3_bexpressao.h
+	<iostream>
+	<string>
+	<stdio.h>
+
+1417807612 source:g:\jean\dropbox\faculdade\c++\t3_binaria_de_expressao\t3_binaria_de_expressao\main.cpp
+	"T3_BExpressao.h"
+
+1405456436 g:\jean\dropbox\faculdade\c++\t3_binaria_de_expressao\t3_binaria_de_expressao\t3_bexpressao.h
+	<iostream>
+	<string>
+	<stdio.h>
+
